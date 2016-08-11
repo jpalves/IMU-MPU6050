@@ -1,0 +1,1 @@
+-Dgnu.io.rxtx.SerialPorts=/dev/ttyS0:/dev/ttyS4:/dev/ttyUSB0:/dev/ttyACM0
